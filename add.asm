@@ -1,4 +1,3 @@
-// Computes RAM[0] = 2 + 3
 @2
 D=A
 @3

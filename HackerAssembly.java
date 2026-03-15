@@ -95,7 +95,7 @@ public class HackerAssembly {
                 bw.newLine();
             }
         }
-        System.out.printf("[OK] Assembled %d instructions → %s%n",
+        System.out.printf("[SUCCESSFULLY!!!] Assembled %d instructions → %s%n",
                           binaryLines.size(), destFile);
     }
     
